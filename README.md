@@ -1,6 +1,10 @@
 # Portfolio
  Learn about HTML / CSS / Bootstap through creation. Also, when they are looking for a job, customize it to create your own portfolio.
 [Visit Demo Website Hosted by Heroku](https://ayesha-portfolio.herokuapp.com/)
+
+![image](https://user-images.githubusercontent.com/100092335/158255140-ae68a915-cc1e-476a-abd6-e4127e776fc4.png)
+
+
 ## Tech used
 * HTML
 * CSS
